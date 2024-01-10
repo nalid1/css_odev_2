@@ -1,0 +1,42 @@
+<!DOCTYPE html> <html lang="en"> <head> <meta charset="UTF-8"> <meta name="viewport" content="width=device-width, initial-scale=1.0"> <title>Special Searches</title> <style> body { font-family: Arial, sans-serif; text-align: center; }
+Download
+Copy code
+    .container {
+        width: 60%;
+        margin: 0 auto;
+    }
+
+    h1 {
+        font-size: 24px;
+        margin-bottom: 10px;
+    }
+
+    ul {
+        list-style-type: none;
+        padding: 0;
+    }
+
+    li {
+        margin-bottom: 10px;
+    }
+
+    a {
+        color: #333;
+        text-decoration: none;
+    }
+
+    a:hover {
+        text-decoration: underline;
+    
+</head> <body> <div class="container">
+<h1>Special Searches</h1>
+<ul>
+     <li><a href="https://www.google.com/search?q=Stanford+Search">Stanford Search</a></li> 
+     <li><a href="https://www.google.com/search?q=Linux+Search">Linux Search</a></li> 
+     <li><a href="https://www.google.com/">Google!</a></li>
+     <li><a href="https://www.google.com/search?q=I'm+feeling+lucky">Google Search I'm feeling lucky</a></li>
+     <li><a href="https://www.google.com/help/">Help!</a></li>
+     <li><a href="https://www.google.com/intl/en/about/">About Google!</a></li>
+     <li><a href="https://www.google.com/company/">Company Info</a></li>
+     <li><a href="https://www.google.com/logos/">Google! Logos</a></li> </ul> 
+<footer> &copy; 1998 Google Inc. </footer> </div> </body> </html>
